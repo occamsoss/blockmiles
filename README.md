@@ -7,4 +7,5 @@
 - Person B (buying miles) sends their personal information (name, address, etc.), their payment information, and the ticket they want
 - Person A (selling miles) books the ticket for Person B using Person B's personal and payment information
 - Person A takes the market value (determined through the app) of the ticket from Person B's payment information
-4. Front-end interface for this app (React?)
+4. Front-end interface for this app (ReactJS?)
+5. Backend blockchain framework (python graphenelib?)
